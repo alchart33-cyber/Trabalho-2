@@ -1,12 +1,14 @@
 h1 { text-align: center; } 
-h1 {
+p {background-color: lightgray;}
+
+
+
+h3 {
   color: rgba(4, 141, 11, 0.829);
 }
 
-p {
-  color: rgba(4, 141, 11, 0.829);
-}
 
-h2 {
-  color: rgba(4, 141, 11, 0.829);
-}
+.Pri {color: darkblue; font-size: 20px; }
+
+#lista{ font-size: 18px; color: blueviolet;}
+
